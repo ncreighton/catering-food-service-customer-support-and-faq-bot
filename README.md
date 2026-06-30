@@ -1,2 +1,46 @@
-# catering-food-service-customer-support-and-faq-bot
-24/7 automated responses, ticket routing, and knowledge base search for Catering &amp; Food Service businesses. Support coverage without hiring more staff.
+# Catering & Food Service Customer Support and FAQ Bot
+
+> Bot for Catering
+
+Every catering professionals needs this — most just don't know it yet.
+
+24/7 operation — runs on your server or scales to any hosting platform. Easy setup: invite → configure → active in under 10 minutes.
+
+## What's Included
+
+- Catering & Food Service Customer Support And Faq — fully configured and ready to use
+- Slash command interface for all...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | ✅ | ✅ |
+| Standard responses | ✅ | ✅ |
+| Community access | ✅ | ✅ |
+| Custom commands | ❌ | ✅ |
+| Analytics dashboard | ❌ | ✅ |
+| Priority processing | ❌ | ✅ |
+| API webhooks | ❌ | ✅ |
+| Unlimited servers | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$24.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/aFafZheTt7Eo8FGeM4d003H)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
